@@ -1,4 +1,4 @@
-# RentSmart — Orçamento de Locação da R.M Imóveis
+﻿# RentSmart — Orçamento de Locação da R.M Imóveis
 
 Aplicação de terminal em Python que calcula o orçamento de locação de **casas, apartamentos e estúdios** da R.M Imóveis, aplicando adicionais, descontos e a taxa contratual, e gera um **CSV com a projeção dos 12 primeiros meses**.
 
@@ -93,3 +93,4 @@ rentsmart/
 - **`Orcamento`**: junta cliente + imóvel + taxa; gera `resumo()`, `projecao()` e `exportar_csv()`.
 - **`EntradaUsuario`**: perguntas com validação (`opcao`, `sim_nao`, `inteiro`, `texto`).
 - **`AplicacaoRentSmart`**: conduz o atendimento no terminal.
+
